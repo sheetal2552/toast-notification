@@ -12,8 +12,6 @@ This was a great project to learn from and fulfilled the requirements it set out
 
 A configurable, composable, toast notification system for react.
 
-https://jossmac.github.io/react-toast-notifications
-
 ### Install
 
 ```bash
@@ -156,10 +154,3 @@ export const MyCustomToast = ({ children, ...props }) => (
 );
 ```
 
-## Alternatives
-
-This library may not meet your needs. Here are some alternative I came across whilst searching for this solution:
-
-- https://github.com/fkhadra/react-toastify
-- https://github.com/tomchentw/react-toastr
-- https://github.com/jesusoterogomez/react-notify-toast
